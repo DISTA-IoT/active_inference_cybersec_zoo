@@ -2,7 +2,7 @@
 Cybersecurity Zoo for Active-Inference based Agents!
 
 Active Inference is a physics and physiology-inspired framework for Bayesian-based optimal control.
-Check our tutorial [here](https://github.com/QwertyJacob/colab_handouts_PSI/blob/main/BONUSX_ActiveInference.ipynb)
+Check our tutorial [here]((https://github.com/QwertyJacob/deep_active_inference_tutorial)
 
 
 # Current agents in the zoo:
