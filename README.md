@@ -12,5 +12,6 @@ Check our tutorial [here](https://github.com/QwertyJacob/deep_active_inference_t
 - [Smart Home scenario: fighting spoofing attacks](https://github.com/DISTA-IoT/cirillo)
 - [General Active Inference development framework](https://github.com/DISTA-IoT/lambruschi)
 - [Railway IIoT, managing spoofing attacks](https://github.com/DISTA-IoT/gioiggi)
+- [Network-level defence simulation](https://github.com/DISTA-IoT/camisasca)
 
 # Wanna create/evolve beasts alike? contact us!
